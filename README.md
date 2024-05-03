@@ -4,9 +4,11 @@
 
   ## 
   
+<!-
 <div align="center">
   <img width="120em" src="https://cdn.discordapp.com/attachments/1051568382866096322/1235956656702230598/OIG3.XtHmYK.jpg?ex=663641d5&is=6634f055&hm=e97fcf18c70392e16b003327f439ec23a98b2124a555a10c41da313fb2fe102c&">
 </div>
+-->
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JuanNicolasGS&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Juan Nicolas GS github stats" /> 
@@ -14,6 +16,10 @@
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanNicolasGS&bg_color=0D1117&color=00bfbf&line=00bfbf&point=0d7a7a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</br>
+</br>
+</br>
 
 ## Tecnologias que eu uso
 
