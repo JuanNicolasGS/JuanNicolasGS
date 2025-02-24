@@ -11,7 +11,7 @@
 </br>
 </br>
 
-## Tecnologias que eu uso
+## Tecnologias que eu uso ☕️
 
 <div style="display: flex" align="center"><br>
   <img align="center" alt="Nickz-Ts"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -28,7 +28,7 @@
   <img align="center" alt="Nickz-Prisma" width="30px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg"> -->
 </div>
 
-## Entre em contato aqui!
+## Entre em contato aqui! 🎉
 <div align="center">
 
 <a href="https://www.instagram.com/nickz.hg/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
