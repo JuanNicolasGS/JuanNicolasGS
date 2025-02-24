@@ -23,9 +23,9 @@
   <img align="center" alt="Nickz-NodeJs"  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="Nickz-TailwindCss"  src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img align="center" alt="Nickz-React"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<!--   <img align="center" alt="Nickz-Next" width="30px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-plain.svg">
+  <img align="center" alt="Nickz-Next" width="30px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-plain.svg">
   <img align="center" alt="Nickz-Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Nickz-Prisma" width="30px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg"> -->
+  <img align="center" alt="Nickz-Prisma" width="30px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
 </div>
 
 ## Entre em contato aqui!
