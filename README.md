@@ -13,7 +13,7 @@
 
 ## Tecnologias que eu uso
 
-<div style="display: inline_block"><br>
+<div style="display: flex" align="center"><br>
   <img align="center" alt="Nickz-Ts"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="Nickz-CSS"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Nickz-Postgresql"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -24,8 +24,8 @@
   <img align="center" alt="Nickz-TailwindCss"  src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img align="center" alt="Nickz-React"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Nickz-Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Nickz-Next" width="30px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-plain.svg">
-  <img align="center" alt="Nickz-Prisma" width="30px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
+<!--   <img align="center" alt="Nickz-Next" width="30px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-plain.svg">
+  <img align="center" alt="Nickz-Prisma" width="30px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg"> -->
 </div>
 
 ## Entre em contato aqui!
